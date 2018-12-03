@@ -1,0 +1,156 @@
+:Monkey: seed=1544107465302 count=100
+:AllowPackage: com.vcooline.aike
+:IncludeCategory: android.intent.category.LAUNCHER
+:IncludeCategory: android.intent.category.MONKEY
+// Selecting main activities from category android.intent.category.LAUNCHER
+//   + Using main activity com.vcooline.aike.umanager.SplashActivity (from package com.vcooline.aike)
+// Selecting main activities from category android.intent.category.MONKEY
+// Seeded: 1544107465302
+// Event percentages:
+//   0: 15.0%
+//   1: 10.0%
+//   2: 2.0%
+//   3: 15.0%
+//   4: -0.0%
+//   5: 25.0%
+//   6: 15.0%
+//   7: 2.0%
+//   8: 2.0%
+//   9: 1.0%
+//   10: 13.0%
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.vcooline.aike/.umanager.SplashActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.vcooline.aike/.umanager.SplashActivity } in package com.vcooline.aike
+Sleeping for 0 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(924.0,644.0)
+:Sending Touch (ACTION_UP): 0:(933.10895,650.3889)
+Sleeping for 0 milliseconds
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-1.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-1.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-1.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(44.0,656.0)
+:Sending Touch (ACTION_UP): 0:(43.819267,648.18396)
+Sleeping for 0 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(1315.0,2149.0)
+:Sending Touch (ACTION_MOVE): 0:(1316.8243,2156.237)
+:Sending Touch (ACTION_MOVE): 0:(1320.5935,2166.5488)
+:Sending Touch (ACTION_MOVE): 0:(1326.9128,2176.6467)
+:Sending Touch (ACTION_MOVE): 0:(1330.5292,2185.1963)
+:Sending Touch (ACTION_MOVE): 0:(1332.7286,2199.588)
+:Sending Touch (ACTION_UP): 0:(1337.4375,2209.8738)
+Sleeping for 0 milliseconds
+:Sending Key (ACTION_DOWN): 20    // KEYCODE_DPAD_DOWN
+:Sending Key (ACTION_UP): 20    // KEYCODE_DPAD_DOWN
+Sleeping for 0 milliseconds
+:Sending Key (ACTION_DOWN): 82    // KEYCODE_MENU
+:Sending Key (ACTION_UP): 82    // KEYCODE_MENU
+Sleeping for 0 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(164.0,735.0)
+:Sending Touch (ACTION_UP): 0:(159.23204,731.8062)
+Sleeping for 0 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(275.0,1541.0)
+:Sending Touch (ACTION_UP): 0:(272.00992,1539.206)
+Sleeping for 0 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(1317.0,301.0)
+:Sending Touch (ACTION_UP): 0:(1322.7712,308.4451)
+Sleeping for 0 milliseconds
+:Sending Key (ACTION_DOWN): 20    // KEYCODE_DPAD_DOWN
+:Sending Key (ACTION_UP): 20    // KEYCODE_DPAD_DOWN
+Sleeping for 0 milliseconds
+:Sending Key (ACTION_DOWN): 63    // KEYCODE_SYM
+:Sending Key (ACTION_UP): 63    // KEYCODE_SYM
+Sleeping for 0 milliseconds
+:Sending Key (ACTION_DOWN): 19    // KEYCODE_DPAD_UP
+:Sending Key (ACTION_UP): 19    // KEYCODE_DPAD_UP
+Sleeping for 0 milliseconds
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-1.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(802.0,994.0)
+:Sending Touch (ACTION_UP): 0:(797.7418,989.08624)
+Sleeping for 0 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(290.0,1313.0)
+:Sending Touch (ACTION_UP): 0:(305.30243,1319.0509)
+Sleeping for 0 milliseconds
+:Sending Trackball (ACTION_MOVE): 0:(0.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-1.0)
+:Sending Trackball (ACTION_DOWN): 0:(0.0,0.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+Sleeping for 0 milliseconds
+:Sending Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+:Sending Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+Sleeping for 0 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(364.0,2391.0)
+:Sending Touch (ACTION_UP): 0:(349.2991,2390.531)
+Sleeping for 0 milliseconds
+:Sending Key (ACTION_DOWN): 19    // KEYCODE_DPAD_UP
+:Sending Key (ACTION_UP): 19    // KEYCODE_DPAD_UP
+Sleeping for 0 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(89.0,1337.0)
+:Sending Touch (ACTION_UP): 0:(83.03408,1339.7778)
+Sleeping for 0 milliseconds
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,4.0)
+:Sending Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+:Sending Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+    // Allowing start of Intent { cmp=com.vcooline.aike/.umanager.LoginActivity } in package com.vcooline.aike
+Sleeping for 0 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(631.0,1922.0)
+:Sending Touch (ACTION_UP): 0:(622.03595,1928.3286)
+Sleeping for 0 milliseconds
+:Sending Key (ACTION_DOWN): 216    // KEYCODE_YEN
+    // activityResuming(com.vcooline.aike)
+:Sending Key (ACTION_UP): 216    // KEYCODE_YEN
+Sleeping for 0 milliseconds
+:Sending Key (ACTION_DOWN): 21    // KEYCODE_DPAD_LEFT
+:Sending Key (ACTION_UP): 21    // KEYCODE_DPAD_LEFT
+Sleeping for 0 milliseconds
+:Sending Key (ACTION_DOWN): 247    // KEYCODE_TV_INPUT_COMPOSITE_1
+:Sending Key (ACTION_UP): 247    // KEYCODE_TV_INPUT_COMPOSITE_1
+Sleeping for 0 milliseconds
+:Sending Key (ACTION_DOWN): 5    // KEYCODE_CALL
+:Sending Key (ACTION_UP): 5    // KEYCODE_CALL
+Sleeping for 0 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(1269.0,2027.0)
+:Sending Touch (ACTION_UP): 0:(1268.8362,2021.4463)
+Sleeping for 0 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(444.0,1940.0)
+:Sending Touch (ACTION_UP): 0:(440.18515,1924.4528)
+Sleeping for 0 milliseconds
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-3.0)
+Events injected: 100
+:Sending rotation degree=0, persist=false
+    // Rejecting start of Intent { act=android.intent.action.CALL_BUTTON cmp=com.android.dialer/.DialtactsActivity } in package com.android.dialer
+:Dropped: keys=0 pointers=0 trackballs=0 flips=0 rotations=0
+## Network stats: elapsed time=1984ms (0ms mobile, 0ms wifi, 1984ms not connected)
+// Monkey finished
